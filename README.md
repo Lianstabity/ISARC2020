@@ -22,14 +22,12 @@ This is the work log for ISARC 2020 Project.
   * [ ] 3D Printing Platform 
     * [ ] UR10 + Printing Head + Material
     * [ ] ROS + Moveit!
-  * [ ] Key Parameters
-
-
   * [ ] **Defect Detection**
     * [ ] Model Deviation
-      * [ ] Overfill & Underfill                       
+      * [ ] Layer Deviation [Overfill & Underfill]
+           * [ ] Compare layer contour with slice contour
       * [ ] Shape Error
-      * [ ] Point cloud Distance between scan file and GT
+           * [ ] Point cloud Distance between scan file and GT
   * [ ] Extruder Detection
     * [ ] Bubble
   * [ ] Feedback Control
