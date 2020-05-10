@@ -32,7 +32,6 @@ This is the work log for ISARC 2020 Project.
       * [ ] Point cloud Distance between scan file and GT
   * [ ] Extruder Detection
     * [ ] Bubble
-    * [ ] Humidity 
   * [ ] Feedback Control
     * [ ] Single Layer Compensation
     * [ ] Cumulative Error Compensation  Periodic Compensation
@@ -44,7 +43,7 @@ This is the work log for ISARC 2020 Project.
   * [ ] Task 2 : 3D printing test [May. 14 – Jun. 4]
     * [ ] Subtask 1: Hand eye calibration
     * [ ] Subtask 2: Printing head + Material preparation
+    * [ ] Subtask 3: Real time 3D printing  [square or circle or pyramid]
     * [ ] Adding noise on robot arm
-    * [ ] Subtask 3: Real time 3D printing  [Easy: square & circle] [Hard: pyramid]
 
 * [ ] **Conclusions**
