@@ -5,9 +5,10 @@ This is the work log for ISARC 2020 Project.
 * [ ] **Abstract**    [May. 1 – May. 7]
 
 * [ ] **Introduction** [May. 1 – May. 7]
-  * [ ] Background [3D Printing + Construction ]
-  * [ ] Research Gap [Rely on manual adjustment]
-  * [ ] Purpose a new approach ==> Detection + Control
+  * [x] Background [3D Printing + Construction ]
+  * [x] Research Gap [Rely on manual adjustment]
+  * [ ] Purpose a new approach ==> Need to highlisht main controbution 
+       * [ ] Detection + Control
  
 * [ ] **Related work**
   * [ ] Reference collection & Summary writing[Present – May. 7]
