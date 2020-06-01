@@ -2,20 +2,20 @@
 
 This is the work log for ISARC 2020 Project.
 
-* [ ] **Abstract**    [May. 1 – May. 7]
+* [x] **Abstract**    [May. 1 – May. 7]
 
-* [ ] **Introduction** [May. 1 – May. 7]
+* [x] **Introduction** [May. 1 – May. 7]
   * [x] Background [3D Printing + Construction ]
   * [x] Research Gap [Rely on manual adjustment]
-  * [ ] Purpose a new approach ==> Need to highlisht main controbution 
+  * [x] Purpose a new approach ==> Need to highlisht main controbution 
        * [ ] Detection + Control
  
-* [ ] **Related work**
-  * [ ] Reference collection & Summary writing[Present – May. 7]
-  * [ ] Topic 1: Construction 3D Printing [NTU 3D Printing] [Mention Material]
-  * [ ] Topic 2: 3D Perception in civil [Point cloud, 3D reconstruction] [1-2 sentences]
-  * [ ] Topic 3: Currently 3D Printing defect detection [Plastic] [Concert]
-  * [ ] Summary novelty & difference with other method
+* [x] **Related work**
+  * [x] Reference collection & Summary writing[Present – May. 7]
+  * [x] Topic 1: Construction 3D Printing [NTU 3D Printing] [Mention Material]
+  * [ ] Topic 2: 3D Perception in civil [Point cloud, 3D reconstruction] [Noneed]
+  * [x] Topic 3: Currently 3D Printing defect detection [Plastic] [Concert]
+  * [x] Summary novelty & difference with other method
   
 * [ ] **Method** [May. 7 – May. 28]
   * [ ] Sensor Introduction
