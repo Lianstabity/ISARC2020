@@ -18,11 +18,11 @@ This is the work log for ISARC 2020 Project.
   * [x] Summary novelty & difference with other method
   
 * [ ] **Method** [May. 7 – May. 28]
-  * [ ] Sensor Introduction
-    * [ ] RGB-D: Microsoft Azure Kinect 
-  * [ ] 3D Printing Platform 
-    * [ ] UR10 + Printing Head + Material
-    * [ ] ROS + Moveit!
+  * [x] Sensor Introduction
+    * [x] RGB-D: Microsoft Azure Kinect 
+  * [x] 3D Printing Platform 
+    * [x] UR10 + Printing Head + Material
+    * [x] ROS + Moveit!
   * [ ] **Defect Detection**
     * [ ] Model Deviation
       * [ ] Layer Deviation [Overfill & Underfill]
