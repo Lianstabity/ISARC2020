@@ -14,7 +14,7 @@ This is the work log for ISARC 2020 Project.
   * [x] Reference collection & Summary writing[Present – May. 7]
   * [x] Topic 1: Construction 3D Printing [NTU 3D Printing] [Mention Material]
   * [x] Topic 2: Currently 3D Printing defect detection [Plastic] [Concert]
-  * [ ] Topic 3: Closed-loop control in 3D Printing
+  * [x] Topic 3: Closed-loop control in 3D Printing
   * [x] Summary novelty & difference with other method
   
 * [ ] **Method** [May. 7 – May. 28]
