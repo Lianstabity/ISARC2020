@@ -23,23 +23,22 @@ This is the work log for ISARC 2020 Project.
   * [x] 3D Printing Platform 
     * [x] UR10 + Printing Head + Material
     * [x] ROS + Moveit!
-  * [ ] **Defect & Deviation Detection**
-    * [ ] Layer Defect & Deviation [Integrity] [Shape Error]
-    * [ ] Surface Defect [Overfill & Underfill]
-    * [ ] Print Model Deviation [Misalignment between the layers]
-    * [ ] Extra detection: Extruder Detection [Bubble Detection]
+  * [x] **Defect & Deviation Detection**
+    * [x] Layer Defect & Deviation [Integrity] [Shape Error]
+    * [x] Surface Defect [Overfill & Underfill]
+    * [x] Print Model Deviation [Misalignment between the layers]
+    * [ ] Extra: Extruder Detection [Bubble Detection]
   * [ ] Pipeline and Proposed Methods
     * [ ] C2P ICP
     * [ ] Feedback control pipline
   
 * [ ] **Experiments**
   * [ ] Task 1 : Static surface / layer Inspection [May. 7 – May. 21]
-    * [ ] Subtask 1: Record a video for Bubble Detection
+    * [ ] Subtask 1: Heatmap for each types defect & deviation
     * [ ] Subtask 2: Using mask for Model Deviation Test
   * [ ] Task 2 : 3D printing test [May. 14 – Jun. 4]
-    * [ ] Subtask 1: Hand eye calibration
-    * [ ] Subtask 2: Printing head + Material preparation
-    * [ ] Subtask 3: Real time 3D printing  [square or circle or pyramid]
-    * [ ] Adding noise on robot arm
+    * [ ] Subtask 1: Mention Hand eye calibration
+    * [ ] Subtask 2: Manual makeup defect [to show our approch could work in real world]
+    * [ ] Subtask 3: 3D printing simulation  [present whole processing in simulation]
 
 * [ ] **Conclusions**
