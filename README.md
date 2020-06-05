@@ -23,17 +23,14 @@ This is the work log for ISARC 2020 Project.
   * [x] 3D Printing Platform 
     * [x] UR10 + Printing Head + Material
     * [x] ROS + Moveit!
-  * [ ] **Defect Detection**
-    * [ ] Model Deviation
-      * [ ] Layer Deviation [Overfill & Underfill]
-           * [ ] Compare layer contour with slice contour
-      * [ ] Shape Error
-           * [ ] Point cloud Distance between scan file and GT
-  * [ ] Extruder Detection
-    * [ ] Bubble
-  * [ ] Feedback Control
-    * [ ] Single Layer Compensation
-    * [ ] Cumulative Error Compensation  Periodic Compensation
+  * [ ] **Defect & Deviation Detection**
+    * [ ] Layer Defect & Deviation [Integrity] [Shape Error]
+    * [ ] Surface Defect [Overfill & Underfill]
+    * [ ] Print Model Deviation [Misalignment between the layers]
+    * [ ] Extra detection: Extruder Detection [Bubble Detection]
+  * [ ] Pipeline and Proposed Methods
+    * [ ] C2P ICP
+    * [ ] Feedback control pipline
   
 * [ ] **Experiments**
   * [ ] Task 1 : Static surface / layer Inspection [May. 7 – May. 21]
