@@ -33,6 +33,7 @@ This is the work log for ISARC 2020 Project.
     * [ ] Feedback control pipline
   
 * [ ] **Experiments**
+  * [ ] Experiments setup
   * [ ] Task 1 : Static surface / layer Inspection [May. 7 – May. 21]
     * [ ] Subtask 1: Heatmap for each types defect & deviation
     * [ ] Subtask 2: Using mask for Model Deviation Test
